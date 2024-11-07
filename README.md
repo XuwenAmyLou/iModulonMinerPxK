@@ -24,4 +24,4 @@ You can also run each program locally, with all requirements listed in the conda
 
 ## Cite
 
-Please cite the following pre-print: [Mining all publicly available expression data to compute dynamic microbial transcriptional regulatory networks](https://www.biorxiv.org/content/10.1101/2021.07.01.450581v1)
+Please cite the following paper: [iModulonMiner and PyModulon: Software for unsupervised mining of gene expression compendia]([https://www.biorxiv.org/content/10.1101/2021.07.01.450581v1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012546))
