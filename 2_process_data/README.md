@@ -71,6 +71,10 @@ If you get the error `Process requirement exceed available CPUs` or `Process req
 ### Missing R1/R2 columns
 If you get the error `Cannot invoke method split() on null object`, this means you are missing the R1 and R2 columns from your metadata file.
 
+### Nextflow and Java version
+1. To specify nextflow version, add "NXF_VER=20.01.0" before the "nextflow run ..." command.
+2. java version 11.0.20 is compatible with the pipeline.
+
 ## Pipeline Alternatives
 
 ### Use of other pipelines
